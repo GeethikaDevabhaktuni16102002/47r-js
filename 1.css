@@ -1,0 +1,13 @@
+h1 {
+    text-align:center;
+    margin-top:10%;
+}
+.btn-container {
+    margin-left:45%;
+}
+.btn {
+    padding:7px  10px;
+    border-radius: 5px;
+    border:2px solid gray;
+    margin-top:5%;
+}
